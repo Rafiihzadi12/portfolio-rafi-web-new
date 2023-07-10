@@ -1,4 +1,4 @@
-css * {
+style.css * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -31,7 +31,7 @@ header {
   justify-content: space-between;
   background: transparent;
   padding: 30px 18%;
-  transition: 0.3s;
+  transition: 3s;
 }
 .logo img {
   max-width: 100%;
